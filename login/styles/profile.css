@@ -1,0 +1,18 @@
+.nav{
+    
+    height: 50px;
+    background: rgb(163, 159, 159);
+    
+
+}
+
+.text{
+    border-radius: 3px;
+    background-color: rgb(147, 166, 228);
+}
+
+
+
+body{
+    background: rgb(117, 117, 150);
+}
